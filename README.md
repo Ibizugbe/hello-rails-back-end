@@ -4,6 +4,11 @@
   <h3><b>Hello Rails Back End</b></h3>
 </div>
 
+ <ul>
+    <li align="center">The link to the frontend of this app is <a href="https://github.com/Ibizugbe/hello-react-front-end">here</a></li>
+ </ul>
+
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
